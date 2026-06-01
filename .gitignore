@@ -2,6 +2,8 @@
 .claude/
 .vscode/
 .wrangler/
+*.pdf
+*:Zone.Identifier
 
 # build output
 dist/
