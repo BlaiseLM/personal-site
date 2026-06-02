@@ -24,7 +24,6 @@ export default defineConfig({
   site: CONFIG.site.url,
   output: 'static',
 
-  adapter: cloudflare(),
 
   vite: {
     plugins: [tailwindcss()],
